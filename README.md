@@ -18,6 +18,12 @@ Game Name Generator using Custom Middleware
     File: index4.js
     Description: A web server that generates an in-game name based on user input and displays it on form submission.
 
+Password-Protected Web Page
+
+    File: index5.js
+    Description: Demonstrates a simple Node.js application using Express to create a password-protected web page. The server checks the provided password against a predefined value using the body-parser middleware and           grants access accordingly.
+
+
 Tools Used
 
     Express.js: A web application framework for Node.js.
